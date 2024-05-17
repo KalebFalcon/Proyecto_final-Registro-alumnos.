@@ -1,0 +1,23 @@
+Nombre del alumno: 23
+Cursa la carrera: codigo embarazo
+
+
+La primera materia que esta cursando el alumno es: 88
+Impartida por el maestro 8
+Con una calificacion de 89.00 (Muy bien.)
+
+La segunda materia que esta cursando el alumno es: 8
+Impartida por el maestro 9
+Con una calificacion de 98.00 (Exelente.)
+
+La tercera materia que esta cursando el alumno es: 8
+Impartida por el maestro 78
+Con una calificacion de 9.00 (Reprobado.)
+
+La cuarta materia que esta cursando el alumno es: 8
+Impartida por el maestro 89
+Con una calificacion de 89.00 (Muy bien.)
+
+La quinta materia que esta cursando el alumno es: 9
+Impartida por el maestro 978
+Con una calificacion de 97.00 (Exelente.)
